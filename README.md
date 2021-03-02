@@ -1,4 +1,4 @@
-<h2>startpage</h2>
+<h1>startpage</h1>
 My first startpage, using HTML and CSS.<br>
 Icons made by me using GIMP.<br>
 Source of the images in the "images" folder:<br>
@@ -6,7 +6,7 @@ Source of the images in the "images" folder:<br>
   -image.png (horizontal) -> https://www.artstation.com/kuvshinov_ilya<br>
  <hr>
  <h3>Vertical version:</h3><br>
-![Vertical version](examples/ex1.png)
+![Vertical version](ex1.png)
 <br></br>
 <h3>Horizontal version:</h3>
-![Horizontal version](examples/ex2.png)
+![Horizontal version](ex2.png)
