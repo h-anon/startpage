@@ -2,5 +2,5 @@
 My first startpage, using HTML and CSS.<br>
 Icons made by me using GIMP.<br>
 Source of the images in the "images" folder:<br>
-  image.jpg -> https://www.pixiv.net/en/users/8223328/artworks<br>
-  image.png -> https://www.artstation.com/kuvshinov_ilya<br>
+* image.jpg -> https://www.pixiv.net/en/users/8223328/artworks<br>
+* image.png -> https://www.artstation.com/kuvshinov_ilya<br>
