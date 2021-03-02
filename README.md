@@ -7,10 +7,10 @@ Source of the images in the "images" folder:<br>
  <hr>
  <h3>Vertical version:</h3><br>
 <p align="center">
-  <img width="460" height="300" src="ex1.png">
+  <img width="768" height="432" src="ex1.png">
 </p>
 <br></br>
 <h3>Horizontal version:</h3>
 <p align="center">
-  <img width="460" height="300" src="ex2.png">
+  <img width="768" height="432" src="ex2.png">
 </p>
