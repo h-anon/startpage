@@ -1,4 +1,4 @@
-# startpage
+startpage
 My first startpage, using HTML and CSS.
 Icons made by me using GIMP.
 Source of the images in the "images" folder:
