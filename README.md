@@ -5,4 +5,4 @@ Source of the images in the "images" folder:<br>
   -image.jpg (vertical) -> https://www.pixiv.net/en/users/8223328/artworks<br>
   -image.png (horizontal) -> https://www.artstation.com/kuvshinov_ilya<br>
 
-![Vertical version](images/ex1.png)
+![Vertical version](ex1.png)
