@@ -6,7 +6,11 @@ Source of the images in the "images" folder:<br>
   -image.png (horizontal) -> https://www.artstation.com/kuvshinov_ilya<br>
  <hr>
  <h3>Vertical version:</h3><br>
-![Vertical](ex1.png)
+<p align="center">
+  <img width="460" height="300" src="ex1.png">
+</p>
 <br></br>
 <h3>Horizontal version:</h3>
-![Horizontal](ex2.png)
+<p align="center">
+  <img width="460" height="300" src="ex2.png">
+</p>
