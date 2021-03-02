@@ -1,0 +1,42 @@
+body {
+    background: #302e2e;
+}
+.cover_h {
+    position: fixed;
+    display: block;
+    margin-right: auto;
+    margin-left: 29%;
+    margin-top: 5px;
+    height: 450px;
+    width: 100%; 
+}
+.table-h {
+    position: fixed;
+    border-spacing: 65px;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 22%;
+}
+.cover_v {
+    position: fixed;
+    width: 465px; 
+    height: 657px;
+    margin-left: 23%;
+    margin-top: 4%;
+}
+.table-v {
+    position: fixed;
+    border-spacing: 65px;
+    text-align: center;
+    margin-left: 47%;
+    margin-top: 2%;
+}
+.icon {
+    height: 42px;
+    width: 42px;
+}
+.image {
+    max-width: 100%;
+    max-height: 100%;
+    border: 3px solid white;
+}
