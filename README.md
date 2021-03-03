@@ -2,8 +2,8 @@
 My first startpage, using HTML and CSS.<br>
 Icons made by me using GIMP.<br>
 Source of the images in the "images" folder:<br>
-  <a href="https://www.pixiv.net/en/users/8223328/artworks">Vertical Version image source</a><br>
-  <a href="https://www.artstation.com/kuvshinov_ilya">Horizontal Version image source</a><br>
+  <a target="_blank" href="https://www.pixiv.net/en/users/8223328/artworks">Vertical Version image source</a><br>
+  <a target="_blank" href="https://www.artstation.com/kuvshinov_ilya">Horizontal Version image source</a><br>
  <hr>
  <h3>Vertical version:</h3><br>
 <p align="center">
