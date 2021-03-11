@@ -1,31 +1,28 @@
 body {
-    background: #302e2e;
+    background: #1b1b1b;
 }
 .cover_h {
     position: fixed;
-    display: block;
-    margin-right: auto;
-    margin-left: 29%;
-    margin-top: 5px;
-    height: 450px;
-    width: 100%; 
+    max-width: 25%;
+    max-height: 25%;
+    margin-left: 37%;
+    margin-top: 0,5%;
 }
 .table-h {
     position: fixed;
     border-spacing: 65px;
     text-align: center;
     margin-left: 37%;
-    margin-top: 22%;
+    margin-top: 17%;
 }
 .cover_v {
     position: fixed;
-    width: 465px; 
-    height: 657px;
-    margin-left: 23%;
+    max-width: 25%;
+    max-height: 25%;
+    margin-left: 20%;
     margin-top: 4%;
 }
 .table-v {
-    position: fixed;
     border-spacing: 65px;
     text-align: center;
     margin-left: 47%;
